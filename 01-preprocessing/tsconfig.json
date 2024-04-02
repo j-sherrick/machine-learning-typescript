@@ -1,0 +1,14 @@
+{
+   "compilerOptions": {
+      "composite": true,
+      "module": "nodenext",
+      "target": "es2018",
+      "lib": ["es2018", "dom"],
+
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "moduleResolution": "node16",
+   },
+   "files": ["index.ts"]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "machine-learning-typescript",
+  "version": "1.0.0",
+  "description": "A project following the popular 'Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]' Udemy course, adapting its exercises and projects into the TypeScript/JavaScript and Node.js ecosystem.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "",
+    "build": "",
+    "test": "",
+    "dev": ""
+  },
+  "keywords": [
+    "artificial-intelligence",
+    "machine-learning",
+    "typescript",
+    "javascript",
+    "node",
+    "npm",
+    "big-data",
+    "chatgpt",
+    "udemy"
+  ],
+  "author": "Jason Sherrick",
+  "license": "ISC",
+  "workspaces": [
+    "01-preprocessing",
+    "02-regression"
+  ],
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.2"
+  }
+}
